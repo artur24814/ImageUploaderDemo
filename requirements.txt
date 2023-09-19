@@ -1,0 +1,12 @@
+Django==4.2.1
+django-dotenv
+Pillow
+psycopg2-binary
+pytest
+pytest-django
+sqlparse
+djangorestframework
+django-cors-headers
+gunicorn
+flake8
+django-debug-toolbar
